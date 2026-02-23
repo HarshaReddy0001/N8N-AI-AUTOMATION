@@ -100,9 +100,9 @@ n8n-ai-automation-projects/
 ## 👤 Author
 
 **Harshavardhan Reddy**
-- 🌐 Portfolio: [harsha-porfolio.netlify.app](https://harsha-porfolio.netlify.app)
-- 💼 LinkedIn: [linkedin.com/in/harshareddy0001](https://www.linkedin.com/in/harshareddyr)
-- 🐙 GitHub: [github.com/HarshaReddy0001](https://github.com/HarshaReddy0001)
+- 🌐 Portfolio: [see my works](https://harsha-porfolio.netlify.app)
+- 💼 LinkedIn: [Can connect and chit chat ](https://www.linkedin.com/in/harshareddyr)
+- 🐙 GitHub: [go through my projects](https://github.com/HarshaReddy0001)
 
 ---
 
